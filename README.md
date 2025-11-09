@@ -1,2 +1,2 @@
-# javafundamentals-course-Grupo-Inka
+# javafundamentals-course-inka
 
