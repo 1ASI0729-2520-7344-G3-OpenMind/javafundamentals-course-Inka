@@ -58,7 +58,7 @@ El curso se divide en **7 lecciones** breves y progresivas (entre 5 y 12 minutos
 [`https://replit.com/@inka/variables-basicas`](https://replit.com/@inka/variables-basicas)  
 
 **Video en YouTube:**  
-🔗 [Agregar enlace aquí](#)
+🔗 [https://youtu.be/fqDdpW6zUjc?si=HB0JOhjDe64-u5Eo](https://youtu.be/fqDdpW6zUjc?si=HB0JOhjDe64-u5Eo)
 
 ---
 
@@ -71,7 +71,7 @@ El curso se divide en **7 lecciones** breves y progresivas (entre 5 y 12 minutos
 [`https://replit.com/@inka/condiciones-y-bucles`](https://replit.com/@inka/condiciones-y-bucles)  
 
 **Video en YouTube:**  
-🔗 [Agregar enlace aquí](#)
+🔗 [https://youtu.be/KOE9GEJ64yI?si=qajJUAlA4sS6XnpI](https://youtu.be/KOE9GEJ64yI?si=qajJUAlA4sS6XnpI)
 
 ---
 
@@ -84,7 +84,7 @@ El curso se divide en **7 lecciones** breves y progresivas (entre 5 y 12 minutos
 [`https://replit.com/@inka/metodos-y-funciones`](https://replit.com/@inka/metodos-y-funciones)  
 
 **Video en YouTube:**  
-🔗 [Agregar enlace aquí](#)
+🔗 [https://youtu.be/RAXLR9Sv-gQ?si=L3APETTA4txKAsQ8](https://youtu.be/RAXLR9Sv-gQ?si=L3APETTA4txKAsQ8)
 
 ---
 
@@ -97,7 +97,7 @@ El curso se divide en **7 lecciones** breves y progresivas (entre 5 y 12 minutos
 [`https://replit.com/@inka/entrada-salida`](https://replit.com/@inka/entrada-salida)  
 
 **Video en YouTube:**  
-🔗 [Agregar enlace aquí](#)
+🔗 [https://youtu.be/QuYk8jI88lw?si=WEcONcVrAse-6EvB](https://youtu.be/QuYk8jI88lw?si=WEcONcVrAse-6EvB)
 
 ---
 
@@ -110,7 +110,7 @@ El curso se divide en **7 lecciones** breves y progresivas (entre 5 y 12 minutos
 [`https://replit.com/@inka/poo-basica`](https://replit.com/@inka/poo-basica)  
 
 **Video en YouTube:**  
-🔗 [Agregar enlace aquí](#)
+🔗 [https://youtu.be/BLuBhI7LphY?si=x-ZmSV6JLOscsavn](https://youtu.be/BLuBhI7LphY?si=x-ZmSV6JLOscsavn)
 
 ---
 
