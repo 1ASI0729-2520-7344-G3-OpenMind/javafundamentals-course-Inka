@@ -135,7 +135,7 @@ El curso se divide en **7 lecciones** breves y progresivas (entre 5 y 12 minutos
 
 ---
 
-### 🟡 Conclusíon 
+### 🟡 Conclusión 
 **Duración:** 2:52  
 
 **Video en YouTube:**  
