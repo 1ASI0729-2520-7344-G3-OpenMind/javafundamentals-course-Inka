@@ -36,7 +36,7 @@ El curso se divide en **7 lecciones** breves y progresivas (entre 5 y 12 minutos
 ## 🧩 Estructura de lecciones
 
 ### 🟢 Lección 1 – Hello World (Tu primer programa en Java)
-**Duración:** ~3 minutos  
+**Duración:** ~6 minutos  
 **Objetivo:** Escribir tu primer programa en Java y entender cómo funciona un proyecto Java básico.
 
 **Información complementaria:**  
@@ -132,6 +132,14 @@ El curso se divide en **7 lecciones** breves y progresivas (entre 5 y 12 minutos
 
 **Video de lección en YouTube:**  
 [Ver en YouTube](https://youtu.be/VJYDNB-FlpA)  
+
+---
+
+### 🟡 Conclusíon 
+**Duración:** 2:52  
+
+**Video en YouTube:**  
+[Ver en YouTube](https://youtu.be/gzahJkX_zhE)  
 
 ---
 
