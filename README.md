@@ -17,8 +17,6 @@ Este proyecto forma parte del trabajo complementario que busca enseñar Java a e
 
 | Carpeta / Archivo | Descripción |
 |--------------------|-------------|
-| `/starter-files` | Archivos base para que los alumnos comiencen cada práctica. |
-| `/completed-examples` | Soluciones completas de los ejercicios del curso. |
 | `/scripts` | Archivos auxiliares o fragmentos usados en las lecciones. |
 | `upc-pre-202520-1asi0729-inka-course-plan.md` | Documento oficial del curso con las 7 lecciones y enlaces. |
 | `README.md` | Guía general del proyecto. |
@@ -26,9 +24,10 @@ Este proyecto forma parte del trabajo complementario que busca enseñar Java a e
 ---
 
 ## 🧑‍💻 Cómo usar este repositorio
-1. Abre cualquier archivo en la carpeta `/starter-files` y ejecútalo en [Replit](https://replit.com/).
-2. Explora el documento [`upc-pre-202520-1asi0729-inka-course-plan.md`](./upc-pre-202520-1asi0729-inka-course-plan.md) para seguir la secuencia de lecciones.
-3. Consulta los ejemplos completos en `/completed-examples` para comparar tus resultados.
+1. Abre [Replit](https://replit.com/) en tu navegador web.
+2. Crea una cuenta o usa una de tu preferencia.
+3. Explora el documento [`upc-pre-202520-1asi0729-inka-course-plan.md`](./upc-pre-202520-1asi0729-inka-course-plan.md) para seguir la secuencia de lecciones.
+4. Consulta los ejemplos completos en `/completed-examples` para comparar tus resultados.
 
 ---
 
