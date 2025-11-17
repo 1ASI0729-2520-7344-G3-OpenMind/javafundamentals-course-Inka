@@ -39,10 +39,10 @@ El curso se divide en **7 lecciones** breves y progresivas (entre 5 y 12 minutos
 **Duración:** ~3 minutos  
 **Objetivo:** Escribir tu primer programa en Java y entender cómo funciona un proyecto Java básico.
 
-**Práctica en Replit:**  
-https://replit.com/@inka/hola-mundo  
+**Información complementaria:**  
+(https://www.programiz.com/java-programming/hello-world)  
 
-**Video en YouTube:**  
+**Video de lección en YouTube:**  
 [Ver en YouTube](#)  
 
 
@@ -52,10 +52,10 @@ https://replit.com/@inka/hola-mundo
 **Duración:** 4:24  
 **Objetivo:** Aprender qué es una variable, tipos de datos y cómo almacenar información.
 
-**Práctica en Replit:**  
-https://replit.com/@inka/variables-basicas  
+**Información complementaria:**  
+(https://www.w3schools.com/java/java_variables.asp)  
 
-**Video en YouTube:**  
+**Video de lección en YouTube:**  
 [Ver en YouTube](https://youtu.be/fqDdpW6zUjc?si=HB0JOhjDe64-u5Eo)  
 
 
@@ -65,10 +65,10 @@ https://replit.com/@inka/variables-basicas
 **Duración:** 10:27  
 **Objetivo:** Conocer los diferentes operadores en Java: aritméticos, lógicos y relacionales.
 
-**Práctica en Replit:**  
-*(Agregar enlace si deseas)*  
+**Información complementaria:**  
+(https://www.datacamp.com/es/doc/java/java-operators)
 
-**Video en YouTube:**  
+**Video de lección en YouTube:**  
 [Ver en YouTube](https://youtu.be/KOE9GEJ64yI)  
 
 
@@ -78,10 +78,10 @@ https://replit.com/@inka/variables-basicas
 **Duración:** 8:07  
 **Objetivo:** Comprender estructuras `if`, `else`, `while`, `for` y cómo usarlas en la lógica del programa.
 
-**Práctica en Replit:**  
-https://replit.com/@inka/condiciones-y-bucles  
+**Información complementaria:**  
+(https://labex.io/es/tutorials/java-java-control-flow-conditionals-and-loops-413751) 
 
-**Video en YouTube:**  
+**Video de lección en YouTube:**  
 [Ver en YouTube](https://youtu.be/KOE9GEJ64yI?si=qajJUAlA4sS6XnpI)  
 
 
@@ -91,10 +91,10 @@ https://replit.com/@inka/condiciones-y-bucles
 **Duración:** 2:08  
 **Objetivo:** Usar la clase `Scanner` para recibir información del usuario.
 
-**Práctica en Replit:**  
-https://replit.com/@inka/entrada-salida  
+**Información complementaria:**  
+(https://www.programiz.com/java-programming/basic-input-output) 
 
-**Video en YouTube:**  
+**Video de lección en YouTube:**  
 [Ver en YouTube](https://youtu.be/QuYk8jI88lw?si=WEcONcVrAse-6EvB)  
 
 
@@ -104,10 +104,10 @@ https://replit.com/@inka/entrada-salida
 **Duración:** 3:57  
 **Objetivo:** Crear y llamar métodos para organizar mejor el código y evitar repetición.
 
-**Práctica en Replit:**  
-https://replit.com/@inka/metodos-y-funciones  
+**Información complementaria:**  
+(https://www.datacamp.com/es/doc/java/class-methods)
 
-**Video en YouTube:**  
+**Video de lección en YouTube:**  
 [Ver en YouTube](https://youtu.be/RAXLR9Sv-gQ?si=L3APETTA4txKAsQ8)  
 
 
@@ -117,10 +117,10 @@ https://replit.com/@inka/metodos-y-funciones
 **Duración:** 2:52  
 **Objetivo:** Introducir los conceptos de Programación Orientada a Objetos: clases, objetos, atributos y métodos.
 
-**Práctica en Replit:**  
-https://replit.com/@inka/poo-basica  
+**Información complementaria:**  
+(https://www.datacamp.com/es/doc/java/category/object-oriented-programming) 
 
-**Video en YouTube:**  
+**Video de lección en YouTube:**  
 [Ver en YouTube](https://youtu.be/3Wo8AqDIJxQ)  
 
 
@@ -130,17 +130,14 @@ https://replit.com/@inka/poo-basica
 **Duración:** 3:22  
 **Objetivo:** Integrar variables, condicionales, bucles, métodos y POO en un mini-proyecto final.
 
-**Práctica en Replit:**  
-https://replit.com/@inka/proyecto-final  
-
-**Video en YouTube:**  
+**Video de lección en YouTube:**  
 [Ver en YouTube](https://youtu.be/VJYDNB-FlpA)  
 
 ---
 
 ## 📘 Metodología
 
-- Cada lección combina **explicación teórica (50 %)** y **ejercicio práctico (50 %)**.  
+- Cada lección combina **explicación teórica (25 %)** y **ejercicio práctico (75 %)**.  
 - Los ejemplos están diseñados con **analogías familiares** (cofres, bloques, acciones cotidianas).  
 - El lenguaje es **sencillo, motivador y visual**, con ritmo pausado para mantener la atención.  
 - Cada práctica incluye **comentarios guía** dentro del código para reforzar el aprendizaje autónomo.
@@ -151,7 +148,7 @@ https://replit.com/@inka/proyecto-final
 
 | Fase | Descripción | Herramienta |
 |------|--------------|--------------|
-| Guion y storyboard | Basado en las 7 lecciones. | Google Docs / Canva |
+| Guion y storyboard | Basado en las 8 lecciones. | Google Docs / Canva |
 | Grabación | Voz en off + capturas en Replit. | OBS Studio |
 | Edición | Integración de audio, video y textos. | CapCut / DaVinci Resolve |
 | Publicación | Videos no listados. | YouTube |
@@ -170,8 +167,7 @@ https://replit.com/@inka/proyecto-final
 
 ---
 
-## 🧾 Referencias
-- Oracle (2024). *Java Documentation*. [https://docs.oracle.com](https://docs.oracle.com)  
+## 🧾 Referencias 
 - Replit. (2025). *Java Online IDE*. [https://replit.com](https://replit.com)  
 - JDoodle. (2025). *Online Java Compiler*. [https://www.jdoodle.com](https://www.jdoodle.com)  
 - Mojang Studios. (2025). *Minecraft: Java Edition Overview*. [https://www.minecraft.net](https://www.minecraft.net)
@@ -180,7 +176,7 @@ https://replit.com/@inka/proyecto-final
 
 ## 🏁 Conclusión
 
-El curso **“Fundamentos de Java para Principiantes”** busca no solo enseñar sintaxis, sino también **despertar el interés por la programación** desde la curiosidad y la creatividad.  
+El curso **“Fundamentos de Java para Principiantes”** busca no solo enseñar sintaxis, sino también **despertar el interés por la programación** de los más pequeños en casa estimulando su curiosidad y creatividad para desarrollar sus propias soluciones.  
 Al conectar el aprendizaje con juegos y ejemplos reales como Minecraft, los estudiantes descubren que programar es una herramienta para construir sus propias ideas y mundos.
 
 ---
