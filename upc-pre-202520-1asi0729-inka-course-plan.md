@@ -33,97 +33,108 @@ El curso se divide en **7 lecciones** breves y progresivas (entre 5 y 12 minutos
 - **GitHub**: almacenamiento público del proyecto y sus archivos fuente.
 
 ---
-
 ## 🧩 Estructura de lecciones
 
-### 🟢 Lección 1 – ¡Hola Java! Tu primer paso en la programación
-**Duración:** ~7 minutos  
-**Objetivo:** Introducir qué es programar y qué es Java.  
-**Ejemplo:** Primer “Hola Mundo” y referencia a Minecraft como aplicación real creada con Java.  
+### 🟢 Lección 1 – Hello World (Tu primer programa en Java)
+**Duración:** ~3 minutos  
+**Objetivo:** Escribir tu primer programa en Java y entender cómo funciona un proyecto Java básico.
 
 **Práctica en Replit:**  
-[`https://replit.com/@inka/hola-mundo`](https://replit.com/@inka/hola-mundo)  
+https://replit.com/@inka/hola-mundo  
 
 **Video en YouTube:**  
-🔗 [Agregar enlace aquí](#)
+[Ver en YouTube](#)  
+
 
 ---
 
-### 🟠 Lección 2 – Variables y tipos de datos: guardando información
-**Duración:** ~8 minutos  
-**Objetivo:** Aprender a guardar y usar información en variables.  
-**Ejemplo:** Cofres de Minecraft como analogía de variables.  
+### 🟠 Lección 2 – Variables  
+**Duración:** 4:24  
+**Objetivo:** Aprender qué es una variable, tipos de datos y cómo almacenar información.
 
 **Práctica en Replit:**  
-[`https://replit.com/@inka/variables-basicas`](https://replit.com/@inka/variables-basicas)  
+https://replit.com/@inka/variables-basicas  
 
 **Video en YouTube:**  
-🔗 [https://youtu.be/fqDdpW6zUjc?si=HB0JOhjDe64-u5Eo](https://youtu.be/fqDdpW6zUjc?si=HB0JOhjDe64-u5Eo)
+[Ver en YouTube](https://youtu.be/fqDdpW6zUjc?si=HB0JOhjDe64-u5Eo)  
+
 
 ---
 
-### 🔵 Lección 3 – Decisiones y bucles: cuando el código piensa
-**Duración:** ~10 minutos  
-**Objetivo:** Comprender condicionales (`if`, `else`) y ciclos (`for`, `while`).  
-**Ejemplo:** “Si tocas lava, pierdes una vida. Si encuentras diamante, ganas puntos.”  
+### 🔵 Lección 3 – Operadores  
+**Duración:** 10:27  
+**Objetivo:** Conocer los diferentes operadores en Java: aritméticos, lógicos y relacionales.
 
 **Práctica en Replit:**  
-[`https://replit.com/@inka/condiciones-y-bucles`](https://replit.com/@inka/condiciones-y-bucles)  
+*(Agregar enlace si deseas)*  
 
 **Video en YouTube:**  
-🔗 [https://youtu.be/KOE9GEJ64yI?si=qajJUAlA4sS6XnpI](https://youtu.be/KOE9GEJ64yI?si=qajJUAlA4sS6XnpI)
+[Ver en YouTube](https://youtu.be/KOE9GEJ64yI)  
+
 
 ---
 
-### 🟣 Lección 4 – Funciones y métodos: enseñando al código a hacer cosas
-**Duración:** ~8 minutos  
-**Objetivo:** Explicar qué son los métodos y cómo se usan para organizar el código.  
-**Ejemplo:** Comparación con tareas cotidianas (“lavar platos”, “apagar luces”).  
+### 🟣 Lección 4 – Condicionales y bucles  
+**Duración:** 8:07  
+**Objetivo:** Comprender estructuras `if`, `else`, `while`, `for` y cómo usarlas en la lógica del programa.
 
 **Práctica en Replit:**  
-[`https://replit.com/@inka/metodos-y-funciones`](https://replit.com/@inka/metodos-y-funciones)  
+https://replit.com/@inka/condiciones-y-bucles  
 
 **Video en YouTube:**  
-🔗 [https://youtu.be/RAXLR9Sv-gQ?si=L3APETTA4txKAsQ8](https://youtu.be/RAXLR9Sv-gQ?si=L3APETTA4txKAsQ8)
+[Ver en YouTube](https://youtu.be/KOE9GEJ64yI?si=qajJUAlA4sS6XnpI)  
+
 
 ---
 
-### 🔴 Lección 5 – Entrada y salida: hablando con el usuario
-**Duración:** ~10 minutos  
-**Objetivo:** Aprender a recibir datos del usuario usando `Scanner`.  
-**Ejemplo:** “Tu programa puede conversar contigo.”  
+### 🔴 Lección 5 – Entrada y salida  
+**Duración:** 2:08  
+**Objetivo:** Usar la clase `Scanner` para recibir información del usuario.
 
 **Práctica en Replit:**  
-[`https://replit.com/@inka/entrada-salida`](https://replit.com/@inka/entrada-salida)  
+https://replit.com/@inka/entrada-salida  
 
 **Video en YouTube:**  
-🔗 [https://youtu.be/QuYk8jI88lw?si=WEcONcVrAse-6EvB](https://youtu.be/QuYk8jI88lw?si=WEcONcVrAse-6EvB)
+[Ver en YouTube](https://youtu.be/QuYk8jI88lw?si=WEcONcVrAse-6EvB)  
+
 
 ---
 
-### 🟤 Lección 6 – Fundamentos de la POO: clases y objetos
-**Duración:** ~12 minutos  
-**Objetivo:** Introducir los conceptos de clase, objeto, atributo y método.  
-**Ejemplo:** “Un bloque de piedra y uno de oro vienen del mismo molde: una clase.”  
+### 🟤 Lección 6 – Métodos  
+**Duración:** 3:57  
+**Objetivo:** Crear y llamar métodos para organizar mejor el código y evitar repetición.
 
 **Práctica en Replit:**  
-[`https://replit.com/@inka/poo-basica`](https://replit.com/@inka/poo-basica)  
+https://replit.com/@inka/metodos-y-funciones  
 
 **Video en YouTube:**  
-🔗 [https://youtu.be/BLuBhI7LphY?si=x-ZmSV6JLOscsavn](https://youtu.be/BLuBhI7LphY?si=x-ZmSV6JLOscsavn)
+[Ver en YouTube](https://youtu.be/RAXLR9Sv-gQ?si=L3APETTA4txKAsQ8)  
+
 
 ---
 
-### 🟡 Lección 7 – Proyecto final y cierre
-**Duración:** ~5 minutos  
-**Objetivo:** Integrar todo lo aprendido en un programa simple usando POO.  
-**Ejemplo:** Crear un mini programa de registro de estudiantes o mascotas virtuales.  
+### 🟦 Lección 7 – POO  
+**Duración:** 2:52  
+**Objetivo:** Introducir los conceptos de Programación Orientada a Objetos: clases, objetos, atributos y métodos.
 
 **Práctica en Replit:**  
-[`https://replit.com/@inka/proyecto-final`](https://replit.com/@inka/proyecto-final)  
+https://replit.com/@inka/poo-basica  
 
 **Video en YouTube:**  
-🔗 [Agregar enlace aquí](#)
+[Ver en YouTube](https://youtu.be/3Wo8AqDIJxQ)  
+
+
+---
+
+### 🟡 Lección 8 – Proyecto final  
+**Duración:** 3:22  
+**Objetivo:** Integrar variables, condicionales, bucles, métodos y POO en un mini-proyecto final.
+
+**Práctica en Replit:**  
+https://replit.com/@inka/proyecto-final  
+
+**Video en YouTube:**  
+[Ver en YouTube](https://youtu.be/VJYDNB-FlpA)  
 
 ---
 
