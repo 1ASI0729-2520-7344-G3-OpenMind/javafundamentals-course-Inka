@@ -43,7 +43,7 @@ El curso se divide en **7 lecciones** breves y progresivas (entre 5 y 12 minutos
 (https://www.programiz.com/java-programming/hello-world)  
 
 **Video de lección en YouTube:**  
-[Ver en YouTube](#)  
+[Ver en YouTube](https://youtu.be/cgPgGVZko_s)  
 
 
 ---
